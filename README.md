@@ -22,7 +22,7 @@ elasticsearch-rest-plus 组件 支持ElasticsearchTemplate
 ## 项目文档
 
 
-#### [集成文档 - GitHub](https://github.com/xphsc/easyjdbc/wiki)
+#### [集成文档 - GitHub](https://github.com/xphsc/elasticsearch-rest-plus/wiki)
 #### [更新日志 - GitHub](https://github.com/xphsc/easyjdbc/wiki/changelog)
 
 
