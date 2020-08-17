@@ -1,7 +1,7 @@
 # elasticsearch-rest-plus 组件
-[![Build Status](https://api.travis-ci.org/com.gtihub.xphsc/elasticsearch-rest-plus.svg?branch=master)]
+[![Build Status](https://api.travis-ci.org/cn.xphsc/elasticsearch-rest-plus.svg?branch=master)]
 [![JDK](https://img.shields.io/badge/JDK-1.8+-green.svg)]
-[![Maven central](https://img.shields.io/maven-central/v/com.github.xphsc/elasticsearch-rest-plus.svg)]
+[![Maven central](https://img.shields.io/maven-central/v/cn.xphsc/elasticsearch-rest-plus.svg)]
 [![APACHE 2 License](https://img.shields.io/badge/license-Apache2-blue.svg?style=flat)](LICENSE)
  
 ##
