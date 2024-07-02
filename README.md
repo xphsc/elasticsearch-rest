@@ -1,4 +1,6 @@
 # elasticsearch-rest-plus 组件
+<img src="/images/elastic-plus.png" width="40%" height="40%" />
+
 [![Build Status](https://api.travis-ci.org/cn.xphsc/elasticsearch-rest-plus.svg?branch=master)]
 [![JDK](https://img.shields.io/badge/JDK-1.8+-green.svg)]
 [![Maven central](https://img.shields.io/maven-central/v/cn.xphsc/elasticsearch-rest-plus.svg)]
